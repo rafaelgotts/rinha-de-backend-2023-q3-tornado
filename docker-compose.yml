@@ -1,0 +1,5 @@
+services:
+  api_01:
+    image: rafaelgotts/rinha-api-2023-tornado
+    ports:
+      - "8080:8888"
